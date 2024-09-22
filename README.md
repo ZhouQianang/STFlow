@@ -3,7 +3,7 @@
 
 ![](./img/figure2.png)
 ![](./img/figure1.png)
-This is the official codebase for the paper: STFlow: Spatio-Temporal Fusion of Events and Frames for Robust Optical Flow Estimation.
+This is the official codebase for the paper: STFlow: Spatio-Temporal Fusion of Events and Frames for Robust Optical Flow Estimation. OUr method rank first on DSEC-Flow Benchmark.
 
 ## Installation
 The code has been tested with Python3.8 and PyTorch 1.11, some packages are needed:
