@@ -68,6 +68,3 @@ bash scripts/train.sh
 ```
 bash scripts/gen_upload.sh
 ```
-
-## Pre-trained model
-The pretrained STFlow model is placed in the `pretrain` directory. 
