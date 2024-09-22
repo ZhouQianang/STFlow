@@ -19,7 +19,7 @@ pip install wandb
 
 # Datasets
 ## DSEC-Flow
-The DSEC-Flow dataset can be downloaded [here](https://dsec.ifi.uzh.ch/dsec-datasets/download/)
+The DSEC-Flow dataset can be downloaded from [here](https://dsec.ifi.uzh.ch/dsec-datasets/download/)
 
 
 # Experiments
