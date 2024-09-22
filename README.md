@@ -1,7 +1,8 @@
 # STFlow: Spatio-Temporal Fusion of Events and Frames for Robust Optical Flow Estimation
 
 
-![](./img/STF-framework.png)
+![](./img/figure2.png)
+![](./img/figure1.png)
 This is the official codebase for the paper: STFlow: Spatio-Temporal Fusion of Events and Frames for Robust Optical Flow Estimation.
 
 ## Installation
