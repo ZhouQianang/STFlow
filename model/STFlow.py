@@ -115,15 +115,3 @@ class STFlow(nn.Module):
             return flow_predictions
         else:
             return self.upsample_flow(coords1 - coords0, upmask)
-
-if __name__=='__main__':
-    input1 = torch.rand(2,15,288,384)
-    input2 = torch.rand(2,15,288,384)
-    model = TMA(input_bins=15)
-    # model.cuda()
-    model.train()
-    preds = model(input1, input2)
-    print(len(preds))
-    model.eval()
-    pred = model(input1, input2)
-    print(pred.shape)
