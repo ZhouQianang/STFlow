@@ -69,3 +69,10 @@ bash scripts/train.sh
 ```
 bash scripts/gen_upload.sh
 ```
+## Acknowledgments
+Thanks for the following helpful open source projects: 
+
+[RAFT](https://github.com/princeton-vl/RAFT), 
+[E-RAFT](https://github.com/uzh-rpg/E-RAFT),
+[TMA](https://github.com/ispc-lab/TMA),
+[GMA](https://github.com/zacjiang/GMA).
