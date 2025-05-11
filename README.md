@@ -76,3 +76,5 @@ Thanks for the following helpful open source projects:
 [E-RAFT](https://github.com/uzh-rpg/E-RAFT),
 [TMA](https://github.com/ispc-lab/TMA),
 [GMA](https://github.com/zacjiang/GMA).
+
+Our code is primarily based on [TMA](https://github.com/ispc-lab/TMA), and we gratefully acknowledge their excellent work.
