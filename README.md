@@ -1,4 +1,4 @@
-# STFlow: Spatio-Temporal Fusion of Events and Frames for Robust Optical Flow Estimation
+# (TMM 2025)STFlow: Spatio-Temporal Fusion of Events and Frames for Robust Optical Flow Estimation
 
 
 ![](./img/figure2.png)
