@@ -1,9 +1,10 @@
-# (TMM 2025)STFlow: Spatio-Temporal Fusion of Events and Frames for Robust Optical Flow Estimation
+# (TMM 2025)STFlow: Spatially-guided Temporal Aggregation for Robust Event-RGB Optical Flow Estimation
+Paper: [Arxiv](https://arxiv.org/abs/2501.00838), [TMM](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=11397094)
 
 
 ![](./img/figure2.png)
 ![](./img/figure1.png)
-This is the official codebase for the paper: STFlow: Spatio-Temporal Fusion of Events and Frames for Robust Optical Flow Estimation. OUr method rank first on DSEC-Flow Benchmark.
+This is the official codebase for the paper: Spatially-guided Temporal Aggregation for Robust Event-RGB Optical Flow Estimation.
 
 ## Installation
 The code has been tested with Python3.8 and PyTorch 1.11, some packages are needed:
